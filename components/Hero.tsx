@@ -1,3 +1,5 @@
+"use client";
+
 export default function Hero() {
   return (
     <section style={{ padding: "6rem 2.5rem 5rem", maxWidth: "900px", margin: "0 auto" }}>

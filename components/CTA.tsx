@@ -1,3 +1,5 @@
+"use client";
+
 const platforms = ["FIVERR", "UPWORK", "ETSY", "GUMROAD", "FLOWSBYMAKY.LAT"];
 
 export default function CTA() {
